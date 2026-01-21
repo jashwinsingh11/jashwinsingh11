@@ -1,16 +1,22 @@
-## Hi there 👋
+# Jashwin
 
-<!--
-**jashwinsingh11/jashwinsingh11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer | Full-Stack • AI/ML • Secure Systems
 
-Here are some ideas to get you started:
+I’m a software engineer with experience building full-stack applications, machine learning systems, and automation tools. I focus on writing clean, maintainable code and designing systems that work reliably under real-world constraints.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+- Full-stack web development
+- Machine learning and computer vision
+- Robotics and automation
+- Security-aware system design
+
+## Technical Skills
+- Languages: Python, JavaScript, TypeScript, C++
+- Frameworks: React, Node.js, FastAPI
+- ML: PyTorch, TensorFlow, OpenCV
+- Tools: Docker, Git, CI/CD
+
+## Links
+- LinkedIn: <your-link>
+- Portfolio: <your-link>
+- Blog: <your-link>
