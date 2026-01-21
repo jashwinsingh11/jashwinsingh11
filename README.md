@@ -44,17 +44,6 @@ I’m a **final-year Software Engineering student** with a deep passion for tech
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
----
-
-## 🚀 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jashwinsingh11&show_icons=true&theme=transparent" alt="Jashwin's GitHub Stats" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jashwinsingh11&layout=compact&theme=transparent" alt="Top Languages" width="300"/>
-</p>
-
----
-
 ## 📬 Connect With Me
 
 <p align="center">
