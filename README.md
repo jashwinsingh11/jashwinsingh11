@@ -167,33 +167,6 @@ const jashwin = {
 
 </details>
 
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jashwinsingh11&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jashwinsingh11&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jashwinsingh11&theme=react&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jashwinsingh11&custom_title=Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=00D9FF&area=true&hide_border=true" alt="Contribution Graph" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jashwinsingh11&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
-</div>
-
----
-
 ## 💼 Let's Build Something Amazing
 
 <div align="center">
