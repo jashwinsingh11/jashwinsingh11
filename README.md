@@ -392,11 +392,3 @@ actively_seeking:
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%" />
 </p>
-
-<br>
-
-<table align="center">
-<tr>
-<td align="center" width="33%">
-  <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="100" />
-  <br><b>Fast Learner</b>
