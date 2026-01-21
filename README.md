@@ -337,46 +337,6 @@ actively_seeking:
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=jashwinsingh11&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&ring_color=00D9FF&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=jashwinsingh11&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jashwinsingh11&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=10&hide=html,css" alt="Top Languages" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=jashwinsingh11&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&layout=compact" alt="WakaTime Stats" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jashwinsingh11&custom_title=Contribution%20Activity%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=00D9FF&title_color=FFFFFF&area=true&hide_border=true&height=350" alt="Contribution Graph" />
-</p>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
-## 🏆 Achievements & Milestones
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jashwinsingh11&theme=tokyonight&no-frame=true&no-bg=true&column=8&margin-w=10&margin-h=10" alt="GitHub Trophies" />
-</p>
-
-<details>
-<summary><b>🎯 More Achievements</b></summary>
-<br>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jashwinsingh11&theme=tokyonight&no-frame=true&no-bg=false&column=4&row=4&margin-w=15&margin-h=15" alt="Detailed Trophies" />
-</p>
-
-</details>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
 ## 💼 Let's Build Something Amazing Together
 
 <p align="center">
