@@ -1,19 +1,25 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Jashwin%20Singh&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Crafting%20Digital%20Excellence&descSize=20&descAlignY=51"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Jashwin%20Singh&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Cloud%20Architect%20%7C%20AI%20Enthusiast&descSize=18&descAlignY=51"/>
 
 </div>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=900&height=140&lines=Software+Engineering+Student+%F0%9F%8E%93;Full-Stack+Developer+%E2%9A%A1+Mobile+Expert+%F0%9F%93%B1;Cloud+Architect+%E2%98%81%EF%B8%8F+AI+Enthusiast+%F0%9F%A4%96;Turning+Ideas+Into+Reality+%F0%9F%92%A1;Building+The+Future%2C+One+Commit+at+a+Time+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=1000&height=150&lines=Software+Engineering+Student+%F0%9F%8E%93;Full-Stack+Developer+%7C+Mobile+Expert+%F0%9F%93%B1;Cloud+Architect+%7C+AI+Enthusiast+%F0%9F%A4%96;Turning+Ideas+Into+Reality+%F0%9F%92%A1;Building+The+Future%2C+One+Line+at+a+Time+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🌐_PORTFOLIO-00D9FF?style=for-the-badge&logoColor=white&labelColor=000000" alt="Portfolio" />
-  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://jashwinsingh.com" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_PORTFOLIO-00D9FF?style=for-the-badge&logoColor=white&labelColor=000000" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/jashwinsingh11" target="_blank">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://linkedin.com/in/jashwinsingh" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
   <img src="https://komarev.com/ghpvc/?username=jashwinsingh11&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/jashwinsingh11?style=for-the-badge&color=00D9FF&labelColor=000000&logo=github" alt="Followers" />
   <img src="https://img.shields.io/github/stars/jashwinsingh11?style=for-the-badge&color=00D9FF&labelColor=000000&logo=github" alt="Stars" />
@@ -39,7 +45,7 @@ class JashwinSingh extends Developer {
         this.currentGoal = "Building impactful solutions at scale";
     }
 
-    getPassions() {
+    getPassions(): object {
         return {
             webDev: "🌐 Full-Stack Development",
             mobile: "📱 Native & Cross-Platform Apps",
@@ -49,89 +55,124 @@ class JashwinSingh extends Developer {
         };
     }
 
-    getDailyRoutine() {
+    getDailyRoutine(): object {
         return {
-            morning: "☕ Coffee + Code",
+            morning: "☕ Coffee + Code Review",
             afternoon: "💻 Build & Ship Features",
             evening: "📚 Learn New Technologies",
             night: "🌙 Side Projects & Open Source"
         };
     }
 
-    getMotto() {
-        return "Code with passion 💜, build with purpose 🎯, ship with pride 🚀";
+    getLifeMotto(): string {
+        return "Code with passion 💜 | Build with purpose 🎯 | Ship with pride 🚀";
     }
 }
+
+const jashwin = new JashwinSingh();
+console.log(jashwin.getLifeMotto());
 ```
 
 <br>
 
-### 💡 Philosophy & Approach
+### 💡 Development Philosophy & Approach
 
 ```yaml
 development_mindset:
-  principles:
-    - "User experience is paramount"
-    - "Performance is a feature"
-    - "Scalability from day one"
-    - "Test early, test often"
-    - "Document everything"
+  core_principles:
+    - "User experience above all else"
+    - "Performance is not optional—it's essential"
+    - "Design for scale from day one"
+    - "Test-driven development saves lives"
+    - "Documentation is love for future developers"
   
-  code_quality:
-    readability: "Code is read 10x more than written"
-    maintainability: "Think about the next developer"
-    optimization: "Premature optimization is evil, but awareness isn't"
+  code_craftsmanship:
+    readability: "Write code for humans, not machines"
+    maintainability: "Today's shortcut is tomorrow's technical debt"
+    optimization: "Make it work, make it right, make it fast"
+    collaboration: "Code reviews are growth opportunities"
   
-  continuous_growth:
-    learning: "Stay curious, stay hungry"
-    community: "Give back what you've learned"
-    innovation: "Question the status quo"
+  continuous_evolution:
+    learning: "Stay curious, stay humble, stay hungry"
+    community: "Share knowledge, lift others up"
+    innovation: "Question everything, improve constantly"
+    impact: "Build products that matter"
 
-current_mission: |
-  Creating digital experiences that don't just function—they delight.
-  Every line of code is an opportunity to solve real problems and 
-  make someone's life easier. Building products people love to use.
+mission_statement: |
+  Crafting digital experiences that transcend functionality—they inspire, 
+  delight, and make a real difference. Every pixel, every line of code, 
+  every interaction is an opportunity to solve meaningful problems and 
+  create value that resonates with users.
 
-actively_seeking:
-  - 🚀 Challenging Projects & Startups
-  - 🤝 Open Source Collaborations
-  - 💼 Freelance Opportunities
-  - 🌟 Innovation & R&D Work
-  - 📖 Mentorship & Knowledge Sharing
+currently_seeking:
+  - 🚀 High-impact Projects & Innovative Startups
+  - 🤝 Meaningful Open Source Collaborations
+  - 💼 Challenging Freelance Opportunities
+  - 🌟 Cutting-edge R&D Initiatives
+  - 📖 Mentorship & Knowledge Exchange
+  - 🎯 Remote Full-Stack Developer Roles
 ```
 
 <br clear="both"/>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-## 🎯 What I'm Up To
+## 🎯 Current Projects & Learning Journey
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="25" /> Currently Working On
+### <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="25" /> 🔥 Active Development
 
-- 🏗️ **Full-Stack SaaS Platform** - React + Node.js + PostgreSQL
-- 📱 **Cross-Platform Mobile App** - React Native + Expo
-- 🤖 **ML-Powered Recommendation System** - Python + TensorFlow
-- ☁️ **Microservices Architecture** - Docker + Kubernetes + AWS
-- 🔐 **OAuth2 Authentication Service** - Spring Boot + Redis
-- 📊 **Real-time Analytics Dashboard** - Next.js + GraphQL
+- 🏗️ **Enterprise SaaS Platform**
+  - Tech: React, TypeScript, Node.js, PostgreSQL
+  - Features: Multi-tenancy, Real-time sync
+  
+- 📱 **Cross-Platform Mobile App**
+  - Tech: React Native, Expo, Firebase
+  - Focus: Seamless UX across iOS & Android
+  
+- 🤖 **AI-Powered Recommendation Engine**
+  - Tech: Python, TensorFlow, FastAPI
+  - ML: Collaborative filtering, Deep learning
+  
+- ☁️ **Microservices Architecture**
+  - Tech: Docker, Kubernetes, AWS EKS
+  - Pattern: Event-driven, CQRS
+  
+- 🔐 **OAuth2 Auth Service**
+  - Tech: Spring Boot, Redis, JWT
+  - Features: SSO, MFA, Session management
 
 </td>
 <td width="50%" valign="top">
 
-### <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="25" /> Learning & Exploring
+### <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="25" /> 🌱 Learning & Exploration
 
-- 🎯 **Advanced System Design Patterns**
-- 🔄 **Event-Driven Architectures**
-- 🐳 **Kubernetes & Cloud Native**
-- 🧠 **Deep Learning & Neural Networks**
-- ⚡ **WebAssembly & Edge Computing**
-- 🔗 **Blockchain & Web3 Technologies**
-- 📈 **Performance Optimization Techniques**
-- 🎨 **Modern Design Systems**
+- 🎯 **System Design Mastery**
+  - Scalability patterns
+  - Load balancing strategies
+  - Database sharding techniques
+  
+- 🔄 **Event-Driven Architecture**
+  - Apache Kafka, RabbitMQ
+  - Event sourcing & CQRS
+  
+- 🐳 **Cloud-Native Development**
+  - Kubernetes orchestration
+  - Service mesh with Istio
+  - GitOps with ArgoCD
+  
+- 🧠 **Advanced AI/ML**
+  - Transformer models
+  - Computer vision with PyTorch
+  - Reinforcement learning
+  
+- ⚡ **Emerging Technologies**
+  - WebAssembly (WASM)
+  - Edge computing
+  - Web3 & Blockchain fundamentals
 
 </td>
 </tr>
@@ -139,7 +180,7 @@ actively_seeking:
 
 <div align="center">
 
-### 🛠️ Technologies I Work With Daily
+### 🛠️ My Tech Arsenal
 
 <img src="https://skillicons.dev/icons?i=python,ts,js,java,kotlin,swift,cpp,cs,php" alt="Languages" />
 <br>
@@ -155,32 +196,32 @@ actively_seeking:
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30px"> Tech Stack Deep Dive
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30px"> Comprehensive Tech Stack
 
 <details open>
-<summary><b>💻 Programming Languages</b></summary>
+<summary><b>💻 Programming Languages & Proficiency</b></summary>
 <br>
 
 <div align="center">
 
-| Language | Proficiency | Use Cases |
-|----------|-------------|-----------|
-| ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) | ⭐⭐⭐⭐⭐ | AI/ML, Backend, Automation, Data Science |
-| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) | ⭐⭐⭐⭐⭐ | Full-Stack Web, Type-Safe Apps |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ⭐⭐⭐⭐⭐ | Web Development, Node.js |
-| ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) | ⭐⭐⭐⭐ | Enterprise Apps, Spring Boot |
-| ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white) | ⭐⭐⭐⭐ | Android Development, Backend |
-| ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white) | ⭐⭐⭐ | iOS Development |
-| ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) | ⭐⭐⭐ | Systems Programming, DSA |
-| ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) | ⭐⭐⭐ | .NET Development, Unity |
-| ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) | ⭐⭐⭐ | Laravel, WordPress |
+| Language | Proficiency | Primary Use Cases | Years of Experience |
+|----------|-------------|-------------------|---------------------|
+| ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) | ⭐⭐⭐⭐⭐ | AI/ML, Backend APIs, Automation, Data Science | 4+ years |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) | ⭐⭐⭐⭐⭐ | Full-Stack Web, Enterprise Apps, Type Safety | 3+ years |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ⭐⭐⭐⭐⭐ | Web Development, Node.js, Frontend | 4+ years |
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) | ⭐⭐⭐⭐ | Enterprise Applications, Spring Boot, Android | 3+ years |
+| ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white) | ⭐⭐⭐⭐ | Android Development, Modern JVM Backend | 2+ years |
+| ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white) | ⭐⭐⭐ | iOS Native Development, SwiftUI | 2+ years |
+| ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) | ⭐⭐⭐ | Systems Programming, DSA, Competitive Coding | 3+ years |
+| ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) | ⭐⭐⭐ | .NET Development, Unity Game Dev | 2+ years |
+| ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) | ⭐⭐⭐ | Laravel, WordPress, Legacy Systems | 2+ years |
 
 </div>
 
 </details>
 
 <details open>
-<summary><b>🎨 Frontend Development</b></summary>
+<summary><b>🎨 Frontend Development & UI Libraries</b></summary>
 <br>
 
 <div align="center">
@@ -188,23 +229,39 @@ actively_seeking:
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
 ![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakraui&logoColor=white)
+![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=react&logoColor=white)
+![Jotai](https://img.shields.io/badge/Jotai-000000?style=for-the-badge&logo=react&logoColor=white)
 
-**Specialties:** Responsive Design, PWAs, Performance Optimization, Accessibility (a11y)
+**Core Competencies:**
+- 🎯 Responsive & Mobile-First Design
+- ⚡ Progressive Web Apps (PWA)
+- 🎨 Design Systems & Component Libraries
+- ♿ Web Accessibility (WCAG 2.1)
+- 🚀 Performance Optimization & Core Web Vitals
+- 🔍 SEO Best Practices
 
 </div>
 
 </details>
 
 <details open>
-<summary><b>⚙️ Backend Development</b></summary>
+<summary><b>⚙️ Backend Development & APIs</b></summary>
 <br>
 
 <div align="center">
@@ -213,15 +270,28 @@ actively_seeking:
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 
-**Expertise:** RESTful APIs, GraphQL, Microservices, Serverless, WebSockets
+**Backend Expertise:**
+- 🏗️ RESTful API Design & Implementation
+- 🔄 GraphQL Schema Design & Resolvers
+- 🎯 Microservices Architecture
+- ⚡ Serverless Functions (AWS Lambda, Azure Functions)
+- 🔐 Authentication & Authorization (OAuth2, JWT, Passport)
+- 📡 Real-time Communication (WebSockets, Server-Sent Events)
+- 🎪 Message Queues (RabbitMQ, Apache Kafka)
+- 🔄 API Gateway & Service Mesh
 
 </div>
 
@@ -241,14 +311,21 @@ actively_seeking:
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
 
-**Platforms:** iOS, Android, Cross-Platform | **Focus:** Native Performance, Smooth UX
+**Mobile Specialization:**
+- 📱 Cross-Platform Development (React Native, Flutter)
+- 🍎 Native iOS Development (Swift, SwiftUI)
+- 🤖 Native Android Development (Kotlin, Jetpack Compose)
+- ⚡ Performance Optimization
+- 🔔 Push Notifications & Deep Linking
+- 💾 Offline-First Architecture
+- 🔄 State Management (Redux, MobX, Provider)
 
 </div>
 
 </details>
 
 <details open>
-<summary><b>🗄️ Databases & Caching</b></summary>
+<summary><b>🗄️ Databases, Caching & ORMs</b></summary>
 <br>
 
 <div align="center">
@@ -261,15 +338,24 @@ actively_seeking:
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
 
-**Skills:** Database Design, Query Optimization, Indexing, Sharding, Replication
+**Database Skills:**
+- 📊 Database Design & Normalization
+- 🚀 Query Optimization & Indexing
+- 🔄 Replication & Sharding Strategies
+- 💾 Caching Strategies (Redis, Memcached)
+- 📈 Database Performance Tuning
+- 🔍 Full-Text Search Implementation
+- 📦 Data Modeling & Schema Design
 
 </div>
 
 </details>
 
 <details open>
-<summary><b>🤖 AI & Data Science</b></summary>
+<summary><b>🤖 AI, Machine Learning & Data Science</b></summary>
 <br>
 
 <div align="center">
@@ -277,19 +363,27 @@ actively_seeking:
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-**Focus Areas:** Machine Learning, Neural Networks, NLP, Computer Vision, Data Analysis
+**AI/ML Capabilities:**
+- 🧠 Neural Networks & Deep Learning
+- 👁️ Computer Vision & Image Processing
+- 💬 Natural Language Processing (NLP)
+- 📊 Predictive Analytics & Forecasting
+- 🎯 Recommendation Systems
+- 🔍 Feature Engineering & Model Selection
+- 📈 Data Visualization (Matplotlib, Seaborn, Plotly)
 
 </div>
 
 </details>
 
 <details open>
-<summary><b>☁️ Cloud & DevOps</b></summary>
+<summary><b>☁️ Cloud Platforms & DevOps</b></summary>
 <br>
 
 <div align="center">
@@ -297,98 +391,59 @@ actively_seeking:
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white)
 
-**Capabilities:** CI/CD, Infrastructure as Code, Container Orchestration, Monitoring
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
+
+**Cloud & DevOps Expertise:**
+- 🚀 CI/CD Pipeline Design & Implementation
+- 🏗️ Infrastructure as Code (Terraform, CloudFormation)
+- 🐳 Container Orchestration (Kubernetes, Docker Swarm)
+- 📊 Monitoring & Logging (Prometheus, Grafana, ELK Stack)
+- 🔐 Security Best Practices & Compliance
+- ⚡ Auto-scaling & Load Balancing
+- 💰 Cloud Cost Optimization
 
 </div>
 
 </details>
 
 <details open>
-<summary><b>🔧 Tools & Platforms</b></summary>
+<summary><b>🔧 Development Tools & Platforms</b></summary>
 <br>
 
 <div align="center">
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
+
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white)
+
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-
-</div>
-
-</details>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
-## 💼 Let's Build Something Amazing Together
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="250" alt="Collaboration" />
-</p>
-
-<h3 align="center">🌟 Open to Exciting Opportunities</h3>
-
-<p align="center">
-  <b>Full-Stack Development</b> • <b>Mobile Applications</b> • <b>Cloud Architecture</b><br>
-  <b>AI/ML Projects</b> • <b>Open Source</b> • <b>Technical Consulting</b>
-</p>
-
-<br>
-
-<p align="center">
-  <a href="https://jashwinsingh.com" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_EXPLORE_MY_PORTFOLIO-00D9FF?style=for-the-badge&logoColor=white&labelColor=000000" alt="Portfolio" />
-  </a>
-  <a href="mailto:contact@jashwinsingh.com">
-    <img src="https://img.shields.io/badge/📧_GET_IN_TOUCH-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://calendly.com/jashwinsingh" target="_blank">
-    <img src="https://img.shields.io/badge/📅_SCHEDULE_A_CALL-4285F4?style=for-the-badge&logo=google-calendar&logoColor=white" alt="Calendar" />
-  </a>
-</p>
-
-<br>
-
-<p align="center">
-  <a href="https://linkedin.com/in/jashwinsingh" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/jashwinsingh" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://dev.to/jashwinsingh" target="_blank">
-    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" />
-  </a>
-  <a href="https://medium.com/@jashwinsingh" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
-  </a>
-  <a href="https://instagram.com/jashwinsingh" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://discord.com/users/jashwinsingh" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%" />
-</p>
+![Trello](https://img.shields.io/badge/Trello-
