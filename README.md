@@ -32,7 +32,7 @@ class JashwinSingh extends Developer {
     constructor() {
         this.name = "Jashwin Singh";
         this.title = "Software Engineering Student";
-        this.location = "Melbourne, Australia 🦘";
+        this.location = "Suva, Fiji 🌊";
         this.education = "Bachelor of Software Engineering";
         this.languages = ["Python", "TypeScript", "Java", "Kotlin", "Swift"];
         this.focusAreas = ["System Design", "AI/ML", "Cloud Architecture"];
@@ -51,7 +51,7 @@ class JashwinSingh extends Developer {
 
     getDailyRoutine() {
         return {
-            morning: "☕ Coffee + Code Review",
+            morning: "☕ Coffee + Code",
             afternoon: "💻 Build & Ship Features",
             evening: "📚 Learn New Technologies",
             night: "🌙 Side Projects & Open Source"
