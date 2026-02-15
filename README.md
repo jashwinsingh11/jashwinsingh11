@@ -105,57 +105,6 @@ const jashwin: Developer = {
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jashwinsingh11&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=jashwinsingh11&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jashwinsingh11&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=jashwinsingh11&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Contribution Graph" />
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
-## 🏆 Achievements & Highlights
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=jashwinsingh11&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="Trophy" />
-
-</div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🎓 Education & Certifications
-- 🎯 Bachelor of Software Engineering (In Progress)
-- ☁️ AWS Certified Solutions Architect
-- 🔐 Google Cloud Professional Developer
-- 🤖 TensorFlow Developer Certificate
-- 📱 Meta React Native Specialization
-- 🏗️ System Design & Architecture
-
-</td>
-<td width="50%" valign="top">
-
-### 💡 Key Achievements
-- ⭐ Built 20+ production-ready applications
-- 🚀 Contributed to 15+ open-source projects
-- 📱 10K+ combined app downloads
-- 🎯 98% client satisfaction rate
-- 💼 Mentored 10+ junior developers
-- 🏆 Winner of 3 hackathons
-
-</td>
-</tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
 ## 🌐 Connect With Me
 
 <div align="center">
