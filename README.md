@@ -43,15 +43,6 @@ const jashwin: Developer = {
   location: "Suva, Fiji 🌴",
   education: "Bachelor of Software Engineering",
   
-  expertise: {
-    frontend: ["React", "Next.js", "TypeScript", "Vue", "Svelte"],
-    backend: ["Node.js", "Python", "Java", "Spring Boot"],
-    mobile: ["React Native", "Flutter", "Kotlin", "Swift"],
-    cloud: ["AWS", "Azure", "GCP", "Docker", "Kubernetes"],
-    ai_ml: ["TensorFlow", "PyTorch", "Scikit-learn"],
-    databases: ["PostgreSQL", "MongoDB", "Redis", "Firebase"]
-  },
-  
   currentFocus: [
     "🔨 Building scalable full-stack applications",
     "📱 Crafting seamless mobile experiences",
