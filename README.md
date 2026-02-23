@@ -75,7 +75,7 @@ const jashwin: Developer = {
 <img src="https://skillicons.dev/icons?i=react,nextjs,vue,svelte,angular,html,css,sass,tailwind,materialui" alt="Frontend" />
 
 ### Backend & APIs
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastify,nestjs,spring,dotnet,django,flask,fastapi,graphql" alt="Backend" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring,dotnet,django,flask,fastapi,graphql" alt="Backend" />
 
 ### Mobile Development
 <img src="https://skillicons.dev/icons?i=react,flutter,kotlin,swift,androidstudio,xcode" alt="Mobile" />
